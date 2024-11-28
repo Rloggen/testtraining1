@@ -15,7 +15,7 @@ Een link:
 ```{tip}
     :class: dropdown
     Dit is een dropdown 
-    ```
+   
 ### Dit is nog een subsectie
 
 Blablablabla, test!
