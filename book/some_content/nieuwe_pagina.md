@@ -11,12 +11,14 @@ Een tabel:
 Een link:
 [Ga naar Google](https://www.google.nl)
 
-### Dit is een subsectie 1  in sectie 2
+### Dit is nog een subsectie
+
+Blablablabla, test!
+
+### Dit is een subsectie 2  in sectie 2
 ```{tip}
     :class: dropdown
     Dit is een dropdown 
    
-### Dit is nog een subsectie
 
-Blablablabla, test!
 
