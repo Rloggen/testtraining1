@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: nieuwe_pagina.md
+    - file: some_content/nieuwe_pagina.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
