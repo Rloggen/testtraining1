@@ -1,3 +1,4 @@
+(sec-nieuwe_pagina)=
 # Nieuwe pagina - chapter
 
 ## Dit is sectie 1 - Section 1
@@ -20,5 +21,16 @@ Blablablabla, test!
     :class: dropdown
     Dit is een dropdown 
    
-
+En nu een filmpje
+<div style="display: flex; justify-content: center;">
+        <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+            <iframe
+                src="https://youtu.be/-UBcxKiS550?si=O9Iqr7M1cV2vUD8o"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+            ></iframe>
+        </div>
+    </div>
 
